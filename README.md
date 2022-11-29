@@ -1,2 +1,2 @@
 # cordel-moderno
- Projeto criado no capitulo 20 do Curso de HTML e CSS
+ Projeto Cordel Moderno, desafio do Curso em Video em HTML e CSS
